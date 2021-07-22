@@ -13,7 +13,7 @@ This sound sensor module I used has both digital and analog output pins, in my a
 Figure 1: sound level using digital input
 
 
-![image](https://user-images.githubusercontent.com/85786699/126641793-11810bc5-47c8-4163-bbab-8c669a4ab5af.png)
+<img src="https://user-images.githubusercontent.com/85786699/126641793-11810bc5-47c8-4163-bbab-8c669a4ab5af.png" width="600">
 Figure 2: czn-15e sound sensor I am using in my circuit shows all pins and internal poteniometer
 
 
