@@ -53,8 +53,7 @@ https://user-images.githubusercontent.com/85786699/126643691-263c3f91-1968-482f-
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/85786699/126645318-e6a28767-6401-4f91-986f-10aa6ee19578.png" width="800">
-
-Figure 5: Serial monitor readings<br></p>
-
+<br>Figure 5: Serial monitor readings<br></p>
+<br>
 
 I uploaded Arduino code to the repository, I hope you like my idea!
