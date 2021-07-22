@@ -15,11 +15,11 @@ This sound sensor module I used has both digital and analog output pins, in my a
 </p>
 
 
-<br><br>
+<br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/85786699/126641793-11810bc5-47c8-4163-bbab-8c669a4ab5af.png" width="600">
 <br>Figure 2: czn-15e sound sensor I am using in my circuit shows all pins and internal poteniometer</p>
-
+<br>
 
 This sound sensor is not accurate to measure sound in decibels as we will need an SPL meter. In addition, we cannot use `map function` to convert our measured values into decibels since the relation between sound in decibels and measured values are not linear. But, our application does not need any precision readings! We only need to detect and adjust the appropriate level where the sound sensor only detect clapping and use that as a trigger for specific output.
 
@@ -28,7 +28,7 @@ This sound sensor is not accurate to measure sound in decibels as we will need a
 <img src="https://user-images.githubusercontent.com/85786699/126641051-75c94005-6e99-46a3-bbd4-e784d483f2ff.png">
 <br>Figure 3: This image shows sound pressure level of various sources.</p>
 
-
+<br>
 In this example, I am using the sound sensor as an input and LED as an output so whenever I clap the LED will blink. I have constructed this circuit using Arduino, sound sensor, LED and 270 ohm resistor. 
 
 
