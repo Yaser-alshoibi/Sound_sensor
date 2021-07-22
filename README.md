@@ -52,9 +52,9 @@ https://user-images.githubusercontent.com/85786699/126643691-263c3f91-1968-482f-
 <br><br>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/85786699/126645318-e6a28767-6401-4f91-986f-10aa6ee19578.png" width="600">
+<img src="https://user-images.githubusercontent.com/85786699/126645318-e6a28767-6401-4f91-986f-10aa6ee19578.png" width="800">
 
-Figure 5: Serial monitor readings
+<br>Figure 5: Serial monitor readings
 </p>
 
 
