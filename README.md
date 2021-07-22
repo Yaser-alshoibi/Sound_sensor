@@ -34,6 +34,7 @@ In this example, I am using the sound sensor as an input and LED as an output so
 I used fritzing softwere to show my circuit connections.
 
 ![image](https://user-images.githubusercontent.com/85786699/126643367-8870a34a-1178-4208-82ef-f52ba9697b5c.png)
+
 Figure 4: Cicuit connections
 
 
@@ -44,7 +45,9 @@ Figure 4: Cicuit connections
 https://user-images.githubusercontent.com/85786699/126643691-263c3f91-1968-482f-b79f-94abb6d7d4bd.mp4
 
 
-![image](https://user-images.githubusercontent.com/85786699/126645318-e6a28767-6401-4f91-986f-10aa6ee19578.png)
+
+<img src="https://user-images.githubusercontent.com/85786699/126645318-e6a28767-6401-4f91-986f-10aa6ee19578.png" width="600">
+
 Figure 5: Serial monitor readings
 
 
