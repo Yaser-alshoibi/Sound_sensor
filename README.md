@@ -9,7 +9,7 @@ In this application I am trying to use a sound sensor as a trigger. So, whenever
 This sound sensor module I used has both digital and analog output pins, in my application I used analog reading, but we can also use the digital output pin, since we can change the level of sound where the sensor gives 1 above that level or gives 0 below that level. And, the level could be changed by rotating the internal potentiometer of the sound sensor.
 
 
-<img src="https://user-images.githubusercontent.com/85786699/126641372-fc0ef39b-80f8-4c1e-8e11-0ddf058959e8.png" width="200"
+<img src="https://user-images.githubusercontent.com/85786699/126641372-fc0ef39b-80f8-4c1e-8e11-0ddf058959e8.png" width="200">
 Figure 1: sound level using digital input
 
 
